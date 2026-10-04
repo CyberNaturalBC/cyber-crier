@@ -1,0 +1,17 @@
+{
+  "site": "The Cyber Crier",
+  "url": "https://cybernaturalbc.github.io/cyber-crier/",
+  "updated": "2026-10-04T15:45:36-07:00",
+  "editions": [
+    {
+      "title": "Where's Grok in the rogue-AI stories?",
+      "date": "2026-10-04",
+      "type": "special",
+      "label": "Special Edition · Opinion",
+      "path": "specials/2026-10-04-rogue-ai-and-grok.html",
+      "dek": "Paid fear, who tells the rogue-AI stories, and why Grok isn't the clean one: facts first, opinion clearly marked.",
+      "slug": "2026-10-04-rogue-ai-and-grok",
+      "published": "2026-10-04T08:45:00-07:00"
+    }
+  ]
+}
