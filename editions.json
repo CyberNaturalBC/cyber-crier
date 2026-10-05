@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-04T17:00:32-07:00",
+  "updated": "2026-10-05T04:53:18-07:00",
   "editions": [
+    {
+      "title": "Brazil runoff · Nobel for light-brain · Eby tax fight",
+      "date": "2026-10-05",
+      "type": "daily",
+      "label": "Morning Edition · Vol. 1, No. 9",
+      "path": "daily/2026-10-05-morning-edition.html",
+      "dek": "Flávio Bolsonaro leads Lula into an Oct 25 runoff; Nobel Prize for optogenetics; Eby pitches a millionaire tax as Conservatives call it a doctor tax. Cloverdale fog then clearing to 19°.",
+      "slug": "2026-10-05-morning-edition",
+      "published": "2026-10-05T04:43:00-07:00"
+    },
     {
       "title": "Where's Grok in the rogue-AI stories?",
       "date": "2026-10-04",
