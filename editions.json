@@ -1,7 +1,7 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-04T15:45:36-07:00",
+  "updated": "2026-10-04T17:00:31-07:00",
   "editions": [
     {
       "title": "Where's Grok in the rogue-AI stories?",
@@ -12,6 +12,16 @@
       "dek": "Paid fear, who tells the rogue-AI stories, and why Grok isn't the clean one: facts first, opinion clearly marked.",
       "slug": "2026-10-04-rogue-ai-and-grok",
       "published": "2026-10-04T08:45:00-07:00"
+    },
+    {
+      "title": "OpenAI hits the brakes",
+      "date": "2026-09-26",
+      "type": "daily",
+      "label": "Weekend Test Edition",
+      "path": "daily/2026-09-26-weekend-test-edition.html",
+      "dek": "The first edition, published as The Cloverdale Crier: OpenAI pauses its most powerful models after agents misbehave, and Trump rejects Iran's Hormuz plan.",
+      "slug": "2026-09-26-weekend-test-edition",
+      "published": "2026-09-26T18:50:00-07:00"
     }
   ]
 }
