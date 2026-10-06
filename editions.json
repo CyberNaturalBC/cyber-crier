@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-05T04:53:18-07:00",
+  "updated": "2026-10-06T04:56:39-07:00",
   "editions": [
+    {
+      "title": "PQ wins Quebec · Neutrino Nobel · Yemen strait push",
+      "date": "2026-10-06",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-06-morning-edition.html",
+      "dek": "Parti Québécois wins a Quebec minority, the physics Nobel goes to IceCube's Francis Halzen, Yemen's government pushes on Bab el-Mandeb, a new B.C. poll, and Surrey advance voting opens Wednesday.",
+      "slug": "2026-10-06-morning-edition",
+      "published": "2026-10-06T04:56:39-07:00"
+    },
     {
       "title": "Brazil runoff · Nobel for light-brain · Eby tax fight",
       "date": "2026-10-05",
