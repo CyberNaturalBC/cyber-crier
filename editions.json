@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-06T04:57:00-07:00",
+  "updated": "2026-10-07T04:51:06-07:00",
   "editions": [
+    {
+      "title": "Fog advisory, Surrey polls open, Hormuz tanker attacks",
+      "date": "2026-10-07",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-07-morning-edition.html",
+      "dek": "Surrey advance voting opens with a $555M Cloverdale Fairgrounds pitch; Iran steps up Hormuz tanker attacks; Russia's Putin-birthday barrage; chemistry Nobel for life's handedness.",
+      "slug": "2026-10-07-morning-edition",
+      "published": "2026-10-07T04:51:06-07:00"
+    },
     {
       "title": "PQ wins Quebec · Neutrino Nobel · Yemen strait push",
       "date": "2026-10-06",
