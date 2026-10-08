@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-07T04:51:06-07:00",
+  "updated": "2026-10-08T04:58:17-07:00",
   "editions": [
+    {
+      "title": "Pentagon readies Iran war options; Kramatorsk bus strike kills 33",
+      "date": "2026-10-08",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-08-morning-edition.html",
+      "dek": "Pentagon tells CENTCOM to prepare to resume the Iran war, a Russian strike on Kramatorsk buses kills at least 33, and B.C. leaders pitch small business in Surrey.",
+      "slug": "2026-10-08-morning-edition",
+      "published": "2026-10-08T04:43:00-07:00"
+    },
     {
       "title": "Fog advisory, Surrey polls open, Hormuz tanker attacks",
       "date": "2026-10-07",
