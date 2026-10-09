@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-08T06:31:58-07:00",
+  "updated": "2026-10-09T04:55:17-07:00",
   "editions": [
+    {
+      "title": "No Iran strike before midterms; Isaias nears Gulf; Surrey debate",
+      "date": "2026-10-09",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-09-morning-edition.html",
+      "dek": "Trump rules out Iran strikes before Nov. 3, Hurricane Isaias nears major strength, and Surrey's mayoral hopefuls take aim at Locke.",
+      "slug": "2026-10-09-morning-edition",
+      "published": "2026-10-09T04:55:17-07:00"
+    },
     {
       "title": "Special Edition · Election Deep Dive",
       "date": "2026-10-08",
