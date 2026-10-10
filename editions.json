@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-09T04:55:17-07:00",
+  "updated": "2026-10-10T07:35:04-07:00",
   "editions": [
+    {
+      "title": "Isaias hits Florida; Trump's Russian diesel deal; Surrey advance vote today",
+      "date": "2026-10-10",
+      "type": "daily",
+      "label": "Weekend Edition",
+      "path": "daily/2026-10-10-weekend-edition.html",
+      "dek": "Isaias makes landfall near Destin, Trump strikes a diesel deal with Putin, Canada sheds 68,000 jobs, and Surrey's advance polls open.",
+      "slug": "2026-10-10-weekend-edition",
+      "published": "2026-10-10T07:30:00-07:00"
+    },
     {
       "title": "No Iran strike before midterms; Isaias nears Gulf; Surrey debate",
       "date": "2026-10-09",
