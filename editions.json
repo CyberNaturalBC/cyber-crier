@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-10T07:35:04-07:00",
+  "updated": "2026-10-11T07:41:44-07:00",
   "editions": [
+    {
+      "title": "Weekend Edition: Riyadh airport hit, Trump vs. Zelenskyy, B.C. campaign turbulence",
+      "date": "2026-10-11",
+      "type": "daily",
+      "label": "Weekend Edition · Vol. 1, No. 15",
+      "path": "daily/2026-10-11-weekend-edition.html",
+      "dek": "Houthi strike on Riyadh airport, Trump calls for a new Ukrainian leader, B.C. Conservative campaign director under fire.",
+      "slug": "2026-10-11-weekend-edition",
+      "published": "2026-10-11T07:30:00-07:00"
+    },
     {
       "title": "Isaias hits Florida; Trump's Russian diesel deal; Surrey advance vote today",
       "date": "2026-10-10",
