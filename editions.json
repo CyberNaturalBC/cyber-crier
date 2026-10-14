@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-13T04:57:46-07:00",
+  "updated": "2026-10-14T04:59:53-07:00",
   "editions": [
+    {
+      "title": "Starlink goes dark for Ukraine's drones as Russia blacks out Kyiv",
+      "date": "2026-10-14",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-14-morning-edition.html",
+      "dek": "Plus B.C.'s only leaders' debate tonight, Surrey advance voting, and Tesla pauses the cheapest Model 3 in Canada.",
+      "slug": "2026-10-14-morning-edition",
+      "published": "2026-10-14T04:43:00-07:00"
+    },
     {
       "title": "Russia hits Kharkiv and Kyiv; Asia's chip rout; Surrey's advance polls reopen",
       "date": "2026-10-13",
