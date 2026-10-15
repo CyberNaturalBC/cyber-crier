@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-14T04:59:53-07:00",
+  "updated": "2026-10-15T04:55:16-07:00",
   "editions": [
+    {
+      "title": "Who controls Starshield?",
+      "date": "2026-10-15",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-15-morning-edition.html",
+      "dek": "Musk says Washington sets the Starshield limits that hobbled Ukraine's drones; B.C.'s only leaders' debate; Surrey's last advance-voting day.",
+      "slug": "2026-10-15-morning-edition",
+      "published": "2026-10-15T04:43:00-07:00"
+    },
     {
       "title": "Starlink goes dark for Ukraine's drones as Russia blacks out Kyiv",
       "date": "2026-10-14",
