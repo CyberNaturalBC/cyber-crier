@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-15T04:55:16-07:00",
+  "updated": "2026-10-16T05:02:01-07:00",
   "editions": [
+    {
+      "title": "The Roadster finally flies",
+      "date": "2026-10-16",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-16-morning-edition.html",
+      "dek": "Tesla's thruster-equipped Roadster arrives with no price and a 2028 date; Surrey votes tomorrow; B.C. advance voting opens as the Massey fight heats up.",
+      "slug": "2026-10-16-morning-edition",
+      "published": "2026-10-16T04:43:00-07:00"
+    },
     {
       "title": "Who controls Starshield?",
       "date": "2026-10-15",
