@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-16T05:02:01-07:00",
+  "updated": "2026-10-17T07:50:42-07:00",
   "editions": [
+    {
+      "title": "Weekend Edition: Surrey votes today; Iran says Hormuz is closed; Trump pauses Russia sanctions",
+      "date": "2026-10-17",
+      "type": "daily",
+      "label": "Weekend Edition · Vol. 1, No. 21",
+      "path": "daily/2026-10-17-weekend-edition.html",
+      "dek": "Surrey picks a mayor and council today, Iran says two supertankers hit mines in Hormuz, Trump puts new Russia sanctions on hold, and Barclays floats a Tesla–SpaceX merger.",
+      "slug": "2026-10-17-weekend-edition",
+      "published": "2026-10-17T07:30:00-07:00"
+    },
     {
       "title": "The Roadster finally flies",
       "date": "2026-10-16",
