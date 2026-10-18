@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-17T07:50:42-07:00",
+  "updated": "2026-10-18T07:49:35-07:00",
   "editions": [
+    {
+      "title": "McCallum retakes Surrey, deadly fire at CFB Wainwright, Ukraine hits St. Petersburg",
+      "date": "2026-10-18",
+      "type": "daily",
+      "label": "Weekend Edition",
+      "path": "daily/2026-10-18-weekend-edition.html",
+      "dek": "Weekend Edition No. 22: Surrey's new mayor and council, the Wainwright tragedy, a 1,000-drone raid on Russia, and six days to B.C.'s vote.",
+      "slug": "2026-10-18-weekend-edition",
+      "published": "2026-10-18T07:30:00-07:00"
+    },
     {
       "title": "Weekend Edition: Surrey votes today; Iran says Hormuz is closed; Trump pauses Russia sanctions",
       "date": "2026-10-17",
