@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-18T07:49:35-07:00",
+  "updated": "2026-10-18T08:39:09-07:00",
   "editions": [
+    {
+      "title": "Incumbents Ousted: Fry beats Sim, McCallum beats Locke",
+      "date": "2026-10-18",
+      "type": "special",
+      "label": "Special Edition",
+      "path": "specials/2026-10-18-incumbent-mayors-ousted.html",
+      "dek": "Vancouver's first Green mayor, Surrey's rematch flip, and the Metro and Fraser Valley mayors who lost on Oct. 17",
+      "slug": "2026-10-18-incumbent-mayors-ousted",
+      "published": "2026-10-18T09:30:00-07:00"
+    },
     {
       "title": "McCallum retakes Surrey, deadly fire at CFB Wainwright, Ukraine hits St. Petersburg",
       "date": "2026-10-18",
