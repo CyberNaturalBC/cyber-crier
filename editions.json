@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-18T08:39:09-07:00",
+  "updated": "2026-10-19T05:03:12-07:00",
   "editions": [
+    {
+      "title": "Morning Edition, Mon Oct 19: Conservative price tags, Wainwright's fallen, Kyiv in the dark",
+      "date": "2026-10-19",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-19-morning-edition.html",
+      "dek": "B.C. Conservatives cost their platform, four soldiers lost at CFB Wainwright, Russian strikes black out 550,000 Ukrainian homes, and Alberta votes on staying in Canada.",
+      "slug": "2026-10-19-morning-edition",
+      "published": "2026-10-19T05:03:12-07:00"
+    },
     {
       "title": "Incumbents Ousted: Fry beats Sim, McCallum beats Locke",
       "date": "2026-10-18",
