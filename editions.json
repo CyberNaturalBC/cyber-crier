@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-19T05:03:12-07:00",
+  "updated": "2026-10-20T04:59:46-07:00",
   "editions": [
+    {
+      "title": "Morning Edition, Vol. 1, No. 24: Alberta stays, B.C. race tightens, oil past $111",
+      "date": "2026-10-20",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-20-morning-edition.html",
+      "dek": "Alberta votes three to one to stay in Canada, Angus Reid has the B.C. race at 46–43 with four days to go, and oil tops $111 as Houthi attacks shut Saudi Arabia's big investor summit.",
+      "slug": "2026-10-20-morning-edition",
+      "published": "2026-10-20T04:59:46-07:00"
+    },
     {
       "title": "Morning Edition, Mon Oct 19: Conservative price tags, Wainwright's fallen, Kyiv in the dark",
       "date": "2026-10-19",
