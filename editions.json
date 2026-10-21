@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-20T04:59:46-07:00",
+  "updated": "2026-10-21T04:58:42-07:00",
   "editions": [
+    {
+      "title": "SpaceX blowout, Tesla merger talks go formal, and SkyTrain to Newton",
+      "date": "2026-10-21",
+      "type": "daily",
+      "label": "Morning Edition · Vol. 1, No. 25",
+      "path": "daily/2026-10-21-morning-edition.html",
+      "dek": "SpaceX posts a $14.6B quarter as Musk confirms merger committees; both big B.C. parties promise SkyTrain to Newton; Putin frees an American as Trump's envoy arrives.",
+      "slug": "2026-10-21-morning-edition",
+      "published": "2026-10-21T04:58:42-07:00"
+    },
     {
       "title": "Morning Edition, Vol. 1, No. 24: Alberta stays, B.C. race tightens, oil past $111",
       "date": "2026-10-20",
