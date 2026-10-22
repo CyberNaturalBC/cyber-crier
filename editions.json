@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-21T04:58:42-07:00",
+  "updated": "2026-10-22T04:53:17-07:00",
   "editions": [
+    {
+      "title": "Kyiv pounded after talks deal; Tesla's flat quarter; B.C. votes Saturday",
+      "date": "2026-10-22",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-22-morning-edition.html",
+      "dek": "Russia strikes Kyiv hours after agreeing to talks, Tesla posts flat sales and promises Cybercabs to buyers, and every B.C. poll has the Conservatives ahead by 2 to 6 points two days out.",
+      "slug": "2026-10-22-morning-edition",
+      "published": "2026-10-22T04:53:17-07:00"
+    },
     {
       "title": "SpaceX blowout, Tesla merger talks go formal, and SkyTrain to Newton",
       "date": "2026-10-21",
