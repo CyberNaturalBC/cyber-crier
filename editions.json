@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-22T17:20:22-07:00",
+  "updated": "2026-10-23T04:59:52-07:00",
   "editions": [
+    {
+      "title": "B.C. votes tomorrow · Tech rout · Oil past $114",
+      "date": "2026-10-23",
+      "type": "daily",
+      "label": "Morning Edition · Vol. 1, No. 27",
+      "path": "daily/2026-10-23-morning-edition.html",
+      "dek": "Leger has Conservatives up 44-39 on the eve of the vote; Nasdaq's worst day since June drags SpaceX down 9%; Brent tops $114 as Iran threatens U.S. bases.",
+      "slug": "2026-10-23-morning-edition",
+      "published": "2026-10-23T04:59:52-07:00"
+    },
     {
       "title": "PHP2Shell: the flaw under most of the web, explained",
       "date": "2026-10-22",
