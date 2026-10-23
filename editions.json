@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-22T04:53:17-07:00",
+  "updated": "2026-10-22T17:20:22-07:00",
   "editions": [
+    {
+      "title": "PHP2Shell: the flaw under most of the web, explained",
+      "date": "2026-10-22",
+      "type": "special",
+      "label": "Special Edition · Deep Dive",
+      "path": "specials/2026-10-22-php2shell-deep-dive.html",
+      "dek": "Two critical PHP bugs found with AI: what they are, whether they're being exploited, and what you actually need to do.",
+      "slug": "2026-10-22-php2shell-deep-dive",
+      "published": "2026-10-22T17:20:00-07:00"
+    },
     {
       "title": "Kyiv pounded after talks deal; Tesla's flat quarter; B.C. votes Saturday",
       "date": "2026-10-22",
