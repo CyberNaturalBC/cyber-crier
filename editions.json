@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-23T04:59:52-07:00",
+  "updated": "2026-10-24T07:40:09-07:00",
   "editions": [
+    {
+      "title": "B.C. votes today · Tariff swap · Oleshky truce",
+      "date": "2026-10-24",
+      "type": "daily",
+      "label": "Weekend Edition",
+      "path": "daily/2026-10-24-weekend-edition.html",
+      "dek": "Polls open 8 AM to 8 PM with most ballots hand-counted; Trump swaps which Canadian goods face 50% tariffs; a ceasefire is set for occupied Oleshky.",
+      "slug": "2026-10-24-weekend-edition",
+      "published": "2026-10-24T07:40:09-07:00"
+    },
     {
       "title": "B.C. votes tomorrow · Tech rout · Oil past $114",
       "date": "2026-10-23",
