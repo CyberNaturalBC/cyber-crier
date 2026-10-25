@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-25T07:48:08-07:00",
+  "updated": "2026-10-25T12:38:43-07:00",
   "editions": [
+    {
+      "title": "Weekend Edition — Test Redo",
+      "date": "2026-10-25",
+      "type": "daily",
+      "label": "Weekend Edition · Test Redo",
+      "path": "daily/2026-10-25-weekend-edition-redo.html",
+      "dek": "Test redo of No. 29: Doerkson's first moves, Surrey 10 for 10, Iran pause, Starlink row, five science papers read.",
+      "slug": "2026-10-25-weekend-edition-redo",
+      "published": "2026-10-25T13:00:00-07:00"
+    },
     {
       "title": "The Cyber Crier · Weekend Edition · Sun Oct 25, 2026",
       "date": "2026-10-25",
