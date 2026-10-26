@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-25T13:13:52-07:00",
+  "updated": "2026-10-26T05:03:12-07:00",
   "editions": [
+    {
+      "title": "Lula wins a fourth term; Brazil stocks crash as his rival refuses to concede",
+      "date": "2026-10-26",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-26-morning-edition.html",
+      "dek": "Doerkson's $32K tax-free bill, copper strike picket, Musk's neocloud warning, Anthropic IPO watch, five science papers read.",
+      "slug": "2026-10-26-morning-edition",
+      "published": "2026-10-26T05:03:12-07:00"
+    },
     {
       "title": "The Cyber Crier · Weekend Edition · Sun Oct 25, 2026",
       "date": "2026-10-25",
