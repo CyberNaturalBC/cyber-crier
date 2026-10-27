@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-26T05:04:01-07:00",
+  "updated": "2026-10-27T04:59:03-07:00",
   "editions": [
+    {
+      "title": "Israel votes with the highest turnout in decades; Doerkson opens B.C.'s books",
+      "date": "2026-10-27",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-27-morning-edition.html",
+      "dek": "Missing Surrey teen, B.C. Ferries CEO out, a Bank of Canada hike watch, Hormuz talks, Anthropic's filing and four papers read.",
+      "slug": "2026-10-27-morning-edition",
+      "published": "2026-10-27T04:59:03-07:00"
+    },
     {
       "title": "Lula wins a fourth term; Brazil stocks crash as his rival refuses to concede",
       "date": "2026-10-26",
