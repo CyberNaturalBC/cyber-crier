@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-30T05:00:47-07:00",
+  "updated": "2026-10-31T07:53:52-07:00",
   "editions": [
+    {
+      "title": "Surrey Police Board names Matsumoto chief; McCallum wants the board fired",
+      "date": "2026-10-31",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-10-31-weekend-edition.html",
+      "dek": "Riot police at Poland's top court, OpenAI trims its raise by $10B as the AI selloff deepens, and Canada's economy stalls.",
+      "slug": "2026-10-31-weekend-edition",
+      "published": "2026-10-31T07:53:52-07:00"
+    },
     {
       "title": "Binance hit by $6.3 billion hack blamed on North Korea",
       "date": "2026-10-30",
