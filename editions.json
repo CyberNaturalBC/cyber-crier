@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-31T07:53:52-07:00",
+  "updated": "2026-10-31T10:39:00-07:00",
   "editions": [
+    {
+      "title": "Poland's court standoff: what happened after the president walked in",
+      "date": "2026-10-31",
+      "type": "special",
+      "label": "Special Edition",
+      "path": "specials/2026-10-31-poland-special.html",
+      "dek": "Hour-by-hour timeline in Pacific time, both sides' stories, the law, the EU, the U.S. and the zloty, and what to watch next",
+      "slug": "2026-10-31-poland-special",
+      "published": "2026-10-31T10:45:00-07:00"
+    },
     {
       "title": "Surrey Police Board names Matsumoto chief; McCallum wants the board fired",
       "date": "2026-10-31",
