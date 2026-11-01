@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-10-31T10:39:00-07:00",
+  "updated": "2026-11-01T08:42:56-07:00",
   "editions": [
+    {
+      "title": "Doerkson sticks with a 10-lane Massey bridge",
+      "date": "2026-11-01",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-01-weekend-edition.html",
+      "dek": "Four dead in Dallas Halloween shootings, Iran talks in Doha before Tuesday's midterms, Binance reopens, five papers read.",
+      "slug": "2026-11-01-weekend-edition",
+      "published": "2026-11-01T08:42:56-07:00"
+    },
     {
       "title": "Poland's court standoff: what happened after the president walked in",
       "date": "2026-10-31",
