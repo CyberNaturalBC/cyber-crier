@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-01T08:42:56-07:00",
+  "updated": "2026-11-02T06:02:28-07:00",
   "editions": [
+    {
+      "title": "Iran pitches a two-day Hormuz reopening; Ottawa fast-tracks Roberts Bank T2",
+      "date": "2026-11-02",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-02-morning-edition.html",
+      "dek": "Oil dips under US$100, supermarket freezers hacked across Europe, midterms tomorrow, four papers read.",
+      "slug": "2026-11-02-morning-edition",
+      "published": "2026-11-02T06:02:28-07:00"
+    },
     {
       "title": "Doerkson sticks with a 10-lane Massey bridge",
       "date": "2026-11-01",
