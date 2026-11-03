@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-02T06:02:28-07:00",
+  "updated": "2026-11-03T06:18:50-07:00",
   "editions": [
+    {
+      "title": "Rollover on 176 Street in Cloverdale; Americans vote; Anthropic's $17B quarter",
+      "date": "2026-11-03",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-03-morning-edition.html",
+      "dek": "A bad crash on 176 St, Surrey's new council sworn in, U.S. strikes Qeshm, and four papers read.",
+      "slug": "2026-11-03-morning-edition",
+      "published": "2026-11-03T06:18:50-07:00"
+    },
     {
       "title": "Iran pitches a two-day Hormuz reopening; Ottawa fast-tracks Roberts Bank T2",
       "date": "2026-11-02",
