@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-04T04:58:26-07:00",
+  "updated": "2026-11-05T04:48:40-07:00",
   "editions": [
+    {
+      "title": "New Surrey council will vote Monday on every election pledge, starting with a four-year tax freeze",
+      "date": "2026-11-05",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-05-morning-edition.html",
+      "dek": "Ottawa tables Budget 2026 this afternoon; Iran's Guard claims Hormuz tanker fires as a Qatar-area tanker is hit.",
+      "slug": "2026-11-05-morning-edition",
+      "published": "2026-11-05T04:48:40-07:00"
+    },
     {
       "title": "Democrats win both the U.S. House and Senate in a midterm rout",
       "date": "2026-11-04",
