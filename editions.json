@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-05T04:48:40-07:00",
+  "updated": "2026-11-06T04:46:56-07:00",
   "editions": [
+    {
+      "title": "Tesla winds down Cybertruck · Wind warning for Surrey · Nasdaq sank 4% on AI fear",
+      "date": "2026-11-06",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-06-morning-edition.html",
+      "dek": "Morning Edition Vol. 1 No. 40 — Cybertruck to end mid-2027 for Cybercab; yellow wind warning as rain hits Cloverdale; tech rout after the midterm sweep.",
+      "slug": "2026-11-06-morning-edition",
+      "published": "2026-11-06T04:46:56-07:00"
+    },
     {
       "title": "New Surrey council will vote Monday on every election pledge, starting with a four-year tax freeze",
       "date": "2026-11-05",
