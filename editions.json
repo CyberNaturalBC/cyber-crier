@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-07T07:31:39-07:00",
+  "updated": "2026-11-08T07:35:54-07:00",
   "editions": [
+    {
+      "title": "Yellow wind warning still on for Surrey this morning — SW gusts to 90",
+      "date": "2026-11-08",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-08-weekend-edition.html",
+      "dek": "CENTCOM stands up Task Force Iron Gate and disables a cargo ship in the Gulf of Oman. Herzog tasks Gadi Eisenkot with forming Israel’s next government.",
+      "slug": "2026-11-08-weekend-edition",
+      "published": "2026-11-08T07:35:54-07:00"
+    },
     {
       "title": "Yellow wind warning for Surrey tonight · U.S. hits Qeshm · Starship dual catch",
       "date": "2026-11-07",
