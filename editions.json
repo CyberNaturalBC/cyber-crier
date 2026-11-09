@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-08T07:35:54-07:00",
+  "updated": "2026-11-09T05:00:49-07:00",
   "editions": [
+    {
+      "title": "Nvidia's board probes Jensen Huang over ties to a suspected Chinese spy",
+      "date": "2026-11-09",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-09-morning-edition.html",
+      "dek": "Storms line up Tuesday to Thursday, and McCallum asks council to pass all 15 promises tonight.",
+      "slug": "2026-11-09-morning-edition",
+      "published": "2026-11-09T05:00:49-07:00"
+    },
     {
       "title": "Yellow wind warning still on for Surrey this morning — SW gusts to 90",
       "date": "2026-11-08",
