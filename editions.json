@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-09T05:00:49-07:00",
+  "updated": "2026-11-10T04:50:36-07:00",
   "editions": [
+    {
+      "title": "The storm series hits today as Anthropic launches its IPO roadshow",
+      "date": "2026-11-10",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-10-morning-edition.html",
+      "dek": "Rain and gusts in Surrey, a 4B AI listing, Ukraine-Russia talks open in Abu Dhabi, and LHCb's one-in-ten-billion decay checked against the paper.",
+      "slug": "2026-11-10-morning-edition",
+      "published": "2026-11-10T04:50:36-07:00"
+    },
     {
       "title": "Nvidia's board probes Jensen Huang over ties to a suspected Chinese spy",
       "date": "2026-11-09",
