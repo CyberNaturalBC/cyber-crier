@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-10T04:50:36-07:00",
+  "updated": "2026-11-11T04:57:28-07:00",
   "editions": [
+    {
+      "title": "Storm day two: gusty and warm, rain tonight; Ukraine talks end with prisoner swap",
+      "date": "2026-11-11",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-11-morning-edition.html",
+      "dek": "Gusts to 50 km/h in Surrey, a prisoner swap out of Abu Dhabi, and hot U.S. inflation locks in a Fed hike.",
+      "slug": "2026-11-11-morning-edition",
+      "published": "2026-11-11T04:57:28-07:00"
+    },
     {
       "title": "The storm series hits today as Anthropic launches its IPO roadshow",
       "date": "2026-11-10",
