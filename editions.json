@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-11T04:57:28-07:00",
+  "updated": "2026-11-13T04:50:22-07:00",
   "editions": [
+    {
+      "title": "Jensen Huang is out at Nvidia as Starship goes for the double catch",
+      "date": "2026-11-13",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-13-morning-edition.html",
+      "dek": "Storm surge on the South Surrey shore, Microsoft's outage drags on, and four science stories checked against their papers.",
+      "slug": "2026-11-13-morning-edition",
+      "published": "2026-11-13T04:50:22-07:00"
+    },
     {
       "title": "Storm day two: gusty and warm, rain tonight; Ukraine talks end with prisoner swap",
       "date": "2026-11-11",
