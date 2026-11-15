@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-14T07:36:47-07:00",
+  "updated": "2026-11-15T07:43:53-07:00",
   "editions": [
+    {
+      "title": "Mechazilla catches a Starship coming home from orbit",
+      "date": "2026-11-15",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-15-weekend-edition.html",
+      "dek": "The booster is lost, Nvidia reports Tuesday under an interim CEO, and Iran says tankers hit Hormuz mines.",
+      "slug": "2026-11-15-weekend-edition",
+      "published": "2026-11-15T07:43:53-07:00"
+    },
     {
       "title": "Starship reaches orbit; ship catch try set for about 2:15 p.m. today",
       "date": "2026-11-14",
