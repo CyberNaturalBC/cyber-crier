@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-15T07:43:53-07:00",
+  "updated": "2026-11-16T04:38:15-07:00",
   "editions": [
+    {
+      "title": "Ukraine hits the Crimea bridge in a 1,336-drone barrage",
+      "date": "2026-11-16",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-16-morning-edition.html",
+      "dek": "Huang's allies push a comeback before Nvidia earnings; ULA's Vulcan fails; SkyTrain turn ban at 152 St and Fraser Hwy.",
+      "slug": "2026-11-16-morning-edition",
+      "published": "2026-11-16T04:38:15-07:00"
+    },
     {
       "title": "Mechazilla catches a Starship coming home from orbit",
       "date": "2026-11-15",
