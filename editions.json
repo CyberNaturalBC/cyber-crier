@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-16T04:38:15-07:00",
+  "updated": "2026-11-17T04:37:18-07:00",
   "editions": [
+    {
+      "title": "Kerch Bridge span falls; Nvidia reports today; Carney-Xi tariff deal",
+      "date": "2026-11-17",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-17-morning-edition.html",
+      "dek": "Ukraine drops a Kerch road span and Russia hits Kyiv's bridges, Nvidia reports its first quarter without Huang, and Carney and Xi cut tariffs on Canadian pork and seafood.",
+      "slug": "2026-11-17-morning-edition",
+      "published": "2026-11-17T04:37:18-07:00"
+    },
     {
       "title": "Ukraine hits the Crimea bridge in a 1,336-drone barrage",
       "date": "2026-11-16",
