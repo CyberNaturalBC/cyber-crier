@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-18T04:44:42-07:00",
+  "updated": "2026-11-19T04:35:46-07:00",
   "editions": [
+    {
+      "title": "Trump, Xi and Putin sign a four-point 'Declaration toward Peace'",
+      "date": "2026-11-19",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-19-morning-edition.html",
+      "dek": "More oil and nuclear talks but no Ukraine deal; Anthropic debuts on Nasdaq; B.C. Conservatives take the oath.",
+      "slug": "2026-11-19-morning-edition",
+      "published": "2026-11-19T04:35:46-07:00"
+    },
     {
       "title": "Nvidia's monster quarter: $115.8B revenue, board says Huang stays out",
       "date": "2026-11-18",
