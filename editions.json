@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-19T04:35:46-07:00",
+  "updated": "2026-11-20T04:41:31-07:00",
   "editions": [
+    {
+      "title": "Anthropic pops 17%, but the AI selloff deepens",
+      "date": "2026-11-20",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-20-morning-edition.html",
+      "dek": "Dow drops 1,101 and Asia is routed; Doerkson sworn in as B.C. premier today; Russia hits Kyiv bridges after the Crimea strikes.",
+      "slug": "2026-11-20-morning-edition",
+      "published": "2026-11-20T04:41:31-07:00"
+    },
     {
       "title": "Trump, Xi and Putin sign a four-point 'Declaration toward Peace'",
       "date": "2026-11-19",
