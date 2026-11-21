@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-20T04:41:31-07:00",
+  "updated": "2026-11-21T07:43:10-07:00",
   "editions": [
+    {
+      "title": "AI rout: Nasdaq −5.3%, Nvidia −14%; Doerkson's cabinet sworn in; Russian missiles fall in Poland",
+      "date": "2026-11-21",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-21-weekend-edition.html",
+      "dek": "Weekend Edition No. 54: Wall Street's worst week since 2020, B.C.'s new cabinet, NATO tested over Poland, and a machine-checked Riemann claim.",
+      "slug": "2026-11-21-weekend-edition",
+      "published": "2026-11-21T07:43:10-07:00"
+    },
     {
       "title": "Anthropic pops 17%, but the AI selloff deepens",
       "date": "2026-11-20",
