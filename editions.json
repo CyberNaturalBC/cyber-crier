@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-21T07:43:10-07:00",
+  "updated": "2026-11-22T07:46:15-07:00",
   "editions": [
+    {
+      "title": "Riemann proof certified; Iran fires on Bahrain; COP31 collapses",
+      "date": "2026-11-22",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-22-weekend-edition.html",
+      "dek": "Two math groups certify the Claude-assisted Riemann proof, Iran's strikes on Bahrain hit a civilian plant, and the UN climate talks end with no deal.",
+      "slug": "2026-11-22-weekend-edition",
+      "published": "2026-11-22T07:46:15-07:00"
+    },
     {
       "title": "AI rout: Nasdaq −5.3%, Nvidia −14%; Doerkson's cabinet sworn in; Russian missiles fall in Poland",
       "date": "2026-11-21",
