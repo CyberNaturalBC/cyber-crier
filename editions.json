@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-22T07:46:15-07:00",
+  "updated": "2026-11-23T04:41:45-07:00",
   "editions": [
+    {
+      "title": "Ukraine says its sea drones sank a Russian warship off Libya",
+      "date": "2026-11-23",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-23-morning-edition.html",
+      "dek": "Futures bounce as Trump urges Nvidia to rehire Huang; Democrats clinch 258 House seats; a robot sub finds the deepest explosive volcanic rocks.",
+      "slug": "2026-11-23-morning-edition",
+      "published": "2026-11-23T04:41:45-07:00"
+    },
     {
       "title": "Riemann proof certified; Iran fires on Bahrain; COP31 collapses",
       "date": "2026-11-22",
