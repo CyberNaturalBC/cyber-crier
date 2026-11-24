@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-23T04:41:45-07:00",
+  "updated": "2026-11-24T04:42:44-07:00",
   "editions": [
+    {
+      "title": "Nvidia rehires Jensen Huang after Trump steps in; Nasdaq jumps 6.5%",
+      "date": "2026-11-24",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-24-morning-edition.html",
+      "dek": "Five directors negotiate a possible SpaceX-Tesla merger; Russian strike on Zaporizhzhia; Euclid's record quasar; king tides on Boundary Bay.",
+      "slug": "2026-11-24-morning-edition",
+      "published": "2026-11-24T04:42:44-07:00"
+    },
     {
       "title": "Ukraine says its sea drones sank a Russian warship off Libya",
       "date": "2026-11-23",
