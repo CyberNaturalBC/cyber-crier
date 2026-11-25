@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-24T04:42:44-07:00",
+  "updated": "2026-11-25T04:37:41-07:00",
   "editions": [
+    {
+      "title": "U.S. readies new tariffs on 16 economies; Canada isn't on the list",
+      "date": "2026-11-25",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-25-morning-edition.html",
+      "dek": "Houthi drone hits Riyadh's tallest tower; OpenAI claims matrix-multiplication exponent is 9/4; storm and king tides on the coast.",
+      "slug": "2026-11-25-morning-edition",
+      "published": "2026-11-25T04:37:41-07:00"
+    },
     {
       "title": "Nvidia rehires Jensen Huang after Trump steps in; Nasdaq jumps 6.5%",
       "date": "2026-11-24",
