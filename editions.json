@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-25T04:37:41-07:00",
+  "updated": "2026-11-26T04:40:53-07:00",
   "editions": [
+    {
+      "title": "Coastal flooding warning for Semiahmoo and Boundary bays; Nvidia freezes SE Asia server shipments",
+      "date": "2026-11-26",
+      "type": "daily",
+      "label": "Morning Edition · Vol. 1, No. 59",
+      "path": "daily/2026-11-26-morning-edition.html",
+      "dek": "King tides and storm surge hit the bays, Nvidia halts AI-server shipments to four countries, and the Houthis say they hit Saudi Arabia's biggest refinery.",
+      "slug": "2026-11-26-morning-edition",
+      "published": "2026-11-26T04:40:53-07:00"
+    },
     {
       "title": "U.S. readies new tariffs on 16 economies; Canada isn't on the list",
       "date": "2026-11-25",
