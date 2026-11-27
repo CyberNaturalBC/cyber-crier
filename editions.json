@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-26T04:40:53-07:00",
+  "updated": "2026-11-27T04:43:21-07:00",
   "editions": [
+    {
+      "title": "Surrey's mayor runs to chair Metro Vancouver, then abolish the job",
+      "date": "2026-11-27",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-27-morning-edition.html",
+      "dek": "Zelensky likens Trump's Putin 'friendship' to befriending Hitler; Iran claims warning shots at a U.S. F-16 as Brent nears US$98.",
+      "slug": "2026-11-27-morning-edition",
+      "published": "2026-11-27T04:43:21-07:00"
+    },
     {
       "title": "Coastal flooding warning for Semiahmoo and Boundary bays; Nvidia freezes SE Asia server shipments",
       "date": "2026-11-26",
