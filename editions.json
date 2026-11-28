@@ -1,8 +1,18 @@
 {
   "site": "The Cyber Crier",
   "url": "https://cybernaturalbc.github.io/cyber-crier/",
-  "updated": "2026-11-27T04:43:21-07:00",
+  "updated": "2026-11-28T07:38:58-07:00",
   "editions": [
+    {
+      "title": "Supreme Court upholds Bill 21 and the notwithstanding clause",
+      "date": "2026-11-28",
+      "type": "daily",
+      "label": "Morning Edition",
+      "path": "daily/2026-11-28-weekend-edition.html",
+      "dek": "Surrey's mayor 'deeply disappointed'; U.S. disables Pacific Archer; Tesla closes at $400 amid merger talks",
+      "slug": "2026-11-28-weekend-edition",
+      "published": "2026-11-28T07:38:58-07:00"
+    },
     {
       "title": "Surrey's mayor runs to chair Metro Vancouver, then abolish the job",
       "date": "2026-11-27",
